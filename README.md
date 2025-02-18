@@ -51,7 +51,7 @@ $ ./proxy <port no.>
 - Then if you again open that website again then `Data is retrieved from the cache` will be printed.
 
 
-##Credits
+## Credit:
 project is implemented using `C` and Parsing of HTTP referred from <a href = "https://github.com/vaibhavnaagar/proxy-server"> Proxy Server </a>
 ![](https://www.cs.princeton.edu/courses/archive/spr08/cos461/web_proxy.html)
 
