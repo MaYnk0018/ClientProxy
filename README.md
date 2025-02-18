@@ -52,6 +52,6 @@ $ ./proxy <port no.>
 
 
 ## Credit:
-project is implemented using `C` and Parsing of HTTP referred from <a href = "https://github.com/vaibhavnaagar/proxy-server"> Proxy Server </a>
-![](https://www.cs.princeton.edu/courses/archive/spr08/cos461/web_proxy.html)
+-project is implemented using `C` and Parsing of HTTP referred from <a href = "https://github.com/vaibhavnaagar/proxy-server"> Proxy Server </a>
+-Reffered project form princeton University <a href="https://www.cs.princeton.edu/courses/archive/spr08/cos461/web_proxy.html">Link </a>
 
